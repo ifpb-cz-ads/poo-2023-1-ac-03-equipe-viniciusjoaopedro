@@ -10,7 +10,7 @@ Escreva um programa que declare, inicialize e imprima as seguintes variáveis:
 • Caracter c com valor ‘k’
  */
 
-public class MyClass {
+public class BMExercicio02 {
   public static void main(String args[]) {
     int i = 1;
     long j = 2L;
