@@ -1,7 +1,7 @@
 // Crie um programa seguindo as orientações abaixo. 
 // Faça tudo que pede dentro do método main.
 
-public class BMExercio03 {
+public class BMExercicio03 {
   public static void main(String[] args) {
 
     // a) Declare duas variáveis para armazenar os valores de dois itens de

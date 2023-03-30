@@ -1,6 +1,6 @@
 // Questão 4 (pg. 44) do livro Batista & Moraes (2013).
 
-public class BMExercio04 {
+public class BMExercicio04 {
   public static void main(String[] args) {
 
     // Declare uma variável chamada long1 do tipo long e a inicialize com 100.    
